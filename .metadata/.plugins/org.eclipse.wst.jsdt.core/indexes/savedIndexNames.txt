@@ -1,0 +1,17 @@
+INDEX VERSION 1.4+D:\Ojas_203_webapplications\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3571804482.index
+4017466426.index
+951505057.index
+2158986206.index
+1926516634.index
+1227729034.index
+2341189441.index
+692394559.index
+3537475630.index
+45203121.index
+875988016.index
+2053888653.index
+2318349534.index
+133940734.index
+1246268871.index
+1656413318.index

@@ -1,0 +1,25 @@
+INDEX VERSION 1.131
+D:\Ojas_203_webapplications\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1057596596.index
+\ConfigAndContext\src\main\resources
+D:\Ojas_203_webapplications\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2673275049.index
+\ConfigAndContextApp\src\main\resources
+D:\Ojas_203_webapplications\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4264173647.index
+\LifeCycleMethodsDemo\src\main\resources
+D:\Ojas_203_webapplications\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1227729034.index
+\HiddenFormFields\src\main\resources
+D:\Ojas_203_webapplications\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3537475630.index
+\HttpSessionDemo\src\main\resources
+D:\Ojas_203_webapplications\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3772102742.index
+\TestService\src\main\resources
+D:\Ojas_203_webapplications\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1926516634.index
+\Cookies\src\main\resources
+D:\Ojas_203_webapplications\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3461950229.index
+\GreetingsApp\src\main\resources
+D:\Ojas_203_webapplications\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2469634220.index
+\RequestDispatcherDemo\src\main\resources
+D:\Ojas_203_webapplications\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\692394559.index
+\URL_Rewriting\src\main\resources
+D:\Ojas_203_webapplications\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\952391934.index
+\Welcome\src\main\resources
+D:\Ojas_203_webapplications\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\551260044.index
+\SendRedirectDemo\src\main\resources
